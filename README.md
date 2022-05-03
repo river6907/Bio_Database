@@ -57,4 +57,4 @@ To http://github.com/river6907/Database.git
 branch 'master' set up to track 'origin/master'.
  
   
-# finish -> check repositary
+// finish -> check repositary
